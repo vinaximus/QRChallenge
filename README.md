@@ -25,8 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/vinaximus/qrChallenge/blob/7a5a4157af67f93eeb62d3eb4d65c2be8ea2bf19/index.html)
+- Live Site URL: [Add live site URL here](https://vinaximus.github.io/qrChallenge/)
 
 ## My process
 I chose to use internal Css instead of external, as there were very few customizations
